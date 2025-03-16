@@ -9352,6 +9352,16 @@
 			(uuid "0ac17d9b-7b86-4389-b311-8381a96ff62b")
 		)
 	)
+	(gr_line
+		(start 131.330392 144.533923)
+		(end 153.830392 144.533923)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "085cc2a8-4c3b-479d-a1c9-2038153bc093")
+	)
 	(gr_circle
 		(center 134.255037 49.776718)
 		(end 138.805037 49.776718)
@@ -9387,7 +9397,7 @@
 		)
 	)
 	(gr_text "PW"
-		(at 147.74 143.033923 0)
+		(at 148.330392 144.533923 0)
 		(layer "F.SilkS" knockout)
 		(uuid "079a3d71-2171-4f79-96cf-10aa63664812")
 		(effects
