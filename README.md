@@ -8,6 +8,9 @@ panel made.
 
 PCBS ordered from JLCPCB.
 will update after building and testing.
+Looking at how the soldermask layer is overlapping the silkscreen on the pics form JLC,
+I suspect I made a mistake and somehow didnt save the edited version of the panel.
+time will tell.
 
 ![sm_blue_top (1)](https://github.com/user-attachments/assets/11beeee5-f74f-4165-9d26-a06427adb9b8)
 ![sm_blue_top (2)](https://github.com/user-attachments/assets/08e27260-6689-4502-8a64-50ca27b41ed7)
