@@ -5155,7 +5155,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "2k"
+		(property "Value" "2k TEMPCO"
 			(at -2.54 2.286 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5169,7 +5169,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "accbda70-cdcf-42cb-aadd-d7b97aeff300")
@@ -5181,7 +5181,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "28869119-5a54-4e3a-8181-69776e6c9d9f")
@@ -5193,7 +5193,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "173e4f1c-ad60-4655-a412-a0b0d0ec5917")
@@ -10292,7 +10292,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "2N3904"
 			(at -2.54 4.572 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19040,7 +19040,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "2N3906 matched"
 			(at -2.54 4.572 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19054,7 +19054,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6694a081-7e9f-4673-aef8-800da6464b5d")
@@ -19066,7 +19066,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fbade567-201f-4944-909e-63fde245808f")
@@ -19078,7 +19078,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a3eb5351-ed2b-43c4-9e06-5e0563855e06")
@@ -21644,7 +21644,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "2N3906 matched"
 			(at -2.54 4.572 90)
 			(unlocked yes)
 			(layer "F.Fab")

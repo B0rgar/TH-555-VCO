@@ -2525,20 +2525,22 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U"
-				(at -2.54 2.54 0)
+			(property "Reference" "U3"
+				(at 1.2701 -2.54 90)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify right)
 				)
 			)
 			(property "Value" "TL431DBZ"
-				(at 0 -2.54 0)
+				(at -1.2699 -2.54 90)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify right)
 				)
 			)
 			(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
@@ -2628,9 +2630,9 @@
 			)
 			(symbol "TL431DBZ_1_1"
 				(pin passive line
-					(at 2.54 0 180)
+					(at 0 2.54 270)
 					(length 2.54)
-					(name "K"
+					(name "REF"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2646,9 +2648,9 @@
 					)
 				)
 				(pin passive line
-					(at 0 2.54 270)
+					(at 2.54 0 180)
 					(length 2.54)
-					(name "REF"
+					(name "K"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6319,7 +6321,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "3.3M"
+		(property "Value" "2.2M"
 			(at 257.81 132.842 0)
 			(effects
 				(font
@@ -7408,7 +7410,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "DNP"
 			(at 68.072 101.6 0)
 			(effects
 				(font
@@ -8239,7 +8241,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "5k6"
+		(property "Value" "DNP"
 			(at 68.072 115.57 0)
 			(effects
 				(font
